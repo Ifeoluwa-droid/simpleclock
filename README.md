@@ -1,6 +1,6 @@
 # simple_clock
 
-A new Flutter application.
+a simple clock
 
 ## Getting Started
 
